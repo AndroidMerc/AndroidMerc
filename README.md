@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="AndroidMerc Logo" width="160"/>
+  <img src="AndroidMerc Patch 512 20200107 v2.png" alt="AndroidMerc Logo" width="160"/>
 </p>
 
 <h1 align="center">
